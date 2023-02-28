@@ -1,3 +1,7 @@
+Course records:
+Started Introduction to Mathematical thinking on 1st of March Wed 2023
+
+
 ![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">Open Source Society University</h3>
